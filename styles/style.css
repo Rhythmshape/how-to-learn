@@ -15,7 +15,6 @@
   max-height: 756px;
   background-color: #f2f2f2;
   padding-left: 64px;
-  position:relative;
   display:flex;
   align-items: center;
 }
@@ -293,7 +292,7 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  margin:18px 0 18px ;
+  margin:18px 0 18px;
 }
 .footer__column_content_info{
   display: flex;
