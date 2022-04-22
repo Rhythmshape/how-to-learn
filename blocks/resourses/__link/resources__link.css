@@ -1,0 +1,10 @@
+.resources__link {
+  padding: 0;
+  justify-content: center;
+  transition: opacity 0.3s ease;
+  opacity: 1;
+}
+
+.resources__link:hover {
+  opacity: 0.3;
+}
